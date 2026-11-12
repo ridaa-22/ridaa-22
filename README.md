@@ -29,8 +29,8 @@ I am a passionate software engineering student with hands-on experience building
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ridaa-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D11" alt="Rida's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridaa-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D11" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ridaa-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D0D11" alt="Rida's GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ridaa-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D11" alt="Top Languages" />
 </div>
 
 ---
